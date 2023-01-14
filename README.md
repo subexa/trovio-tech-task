@@ -1,4 +1,4 @@
-# Cypress Test for Trovio on https://www.saucedemo.com/
+# Cypress Test for Trovio on [SauceDemo](https://www.saucedemo.com/)
 
 ### Link to sample test cases:
 
